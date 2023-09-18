@@ -1,0 +1,26 @@
+sai ten bien urlpatterns
+
+sai ten folder templates
+
+thieu , o file urls project tong hop
+
+sai ten thu vien (them s or ko them)
+
+ko nen them : sau static trong luc refer file css
+
+them load static vao dong dau tien trong file html
+
+trong file path khong add them / vao trong cho " "
+
+tao block code cho templates phai them ten block do phia sau 
+
+trong luc extends block dung dau " " ko phai '' 
+va khong them / dau duong dan file
+
+trong attribute cua 1 tag html thi ben trong {%%} moi dung dau ''
+
+ten app namespace phai dat bien o file url cua app do
+
+add bien vao ngay trong tag dung {{}}
+
+check key trong session thi key do phai o dang string
